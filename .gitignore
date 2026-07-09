@@ -1,0 +1,13 @@
+node_modules/
+.next/
+__pycache__/
+*.pyc
+.env
+backend.log
+backend_err.log
+*.egg-info/
+dist/
+build/
+.DS_Store
+Thumbs.db
+eval_results.json
