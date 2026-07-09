@@ -413,6 +413,21 @@ hybrid-router/
 
 ---
 
+## Team
+
+<div align="center">
+
+| Name | Role | GitHub |
+|------|------|--------|
+| **Tanmay Verma** | Project Leader & Backend | [@lords-coder](https://github.com/lords-coder) |
+| **Karan Agarwal** | Core Contributor | - |
+| **Hitesh Chaabra** | Core Contributor | - |
+| **Yuvraj Sharma** | Core Contributor | - |
+
+</div>
+
+---
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
