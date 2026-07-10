@@ -420,7 +420,7 @@ hybrid-router/
 | Name | Role | GitHub |
 |------|------|--------|
 | **Tanmay Verma** | Project Leader | [@lords-coder](https://github.com/lords-coder) |
-| **Karan Agrawal** | Contributor | [@Karanagrawal1955](https://github.com/Karanagrawal955) |
+| **Karan Agrawal** | Contributor | [@Karanagrawa1955](https://github.com/Karanagrawal955) |
 | **Hitesh Chaabra** | Contributor | [@QuantumSyntax27](https://github.com/QuantumSyntax27) |
 | **Yuvraj Sharma** | Contributor | - |
 | **Yash Vardhan Sharma** | Core Contributor | [@Suzanekarminova](https://github.com/Suzanekarminova) |
